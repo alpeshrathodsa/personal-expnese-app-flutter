@@ -1,16 +1,26 @@
 # personal_expense_app
 
-A new Flutter project.
+This app focus on basic widgets, theming and logic.
 
-## Getting Started
+## Widget Summary
 
-This project is a starting point for a Flutter application.
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Stack](https://api.flutter.dev/flutter/widgets/Stack-class.html)
+- [FractionallySizedBox](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html)
+- [Flexible/Expanded](https://github.com/alpeshrathodsa/flexible-expanded-widget-flutter)
+- [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
+- [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
+- [FittedBox](https://api.flutter.dev/flutter/widgets/FittedBox-class.html)
+- [TextField](https://api.flutter.dev/flutter/material/TextField-class.html)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feature Summary
+- [BottomSheet](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+- [DateFormate](https://pub.dev/packages/intl)
+- [Theming](https://flutter.dev/docs/cookbook/design/themes)
+- fonts
+- List.generate
+- List.reversed
+- [DatePicker](https://api.flutter.dev/flutter/material/showDatePicker.html)
